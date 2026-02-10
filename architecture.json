@@ -1,0 +1,160 @@
+{
+  "book_id": "the-archive-of-held-breaths",
+  "title": "The Archive of Held Breaths",
+  "tagline": "A young woman must untangle a living story delivered in a storm, a journey that blurs the lines between archive, ancestry, and awakening.",
+  "target_words": 70000,
+  "actual_words": 63954,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Book as a Living, Breathing Archive",
+    "Postcolonial Hauntology and Inherited Ghosts",
+    "Metafictional Unraveling of Story vs. History",
+    "Spiritual Seeking as an Embodied, Textual Pilgrimage"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Monsoon Delivery",
+      "words": 2665
+    },
+    {
+      "ch": 2,
+      "title": "The Unwritten Ledger",
+      "words": 2665
+    },
+    {
+      "ch": 3,
+      "title": "The Cartographer of Silence",
+      "words": 2665
+    },
+    {
+      "ch": 4,
+      "title": "Knots in Time",
+      "words": 2665
+    },
+    {
+      "ch": 5,
+      "title": "The First Exhalation",
+      "words": 2665
+    },
+    {
+      "ch": 6,
+      "title": "Whispers in the Brittle Years",
+      "words": 2665
+    },
+    {
+      "ch": 7,
+      "title": "The Scent of Sandalwood and Salt",
+      "words": 2665
+    },
+    {
+      "ch": 8,
+      "title": "A Dialogue with Sir Henry's Ghost",
+      "words": 2665
+    },
+    {
+      "ch": 9,
+      "title": "The Fabric of the Unsaid",
+      "words": 2665
+    },
+    {
+      "ch": 10,
+      "title": "Mother's Call, History's Frame",
+      "words": 2665
+    },
+    {
+      "ch": 11,
+      "title": "The Seeker of Pure Forms",
+      "words": 2665
+    },
+    {
+      "ch": 12,
+      "title": "The Argument of the Shelves",
+      "words": 2665
+    },
+    {
+      "ch": 13,
+      "title": "Retreat or Migration",
+      "words": 2665
+    },
+    {
+      "ch": 14,
+      "title": "Opening the Box",
+      "words": 2665
+    },
+    {
+      "ch": 15,
+      "title": "The Breath Takes Shape",
+      "words": 2665
+    },
+    {
+      "ch": 16,
+      "title": "A Map of Absences",
+      "words": 2665
+    },
+    {
+      "ch": 17,
+      "title": "Following the Water's Memory",
+      "words": 2665
+    },
+    {
+      "ch": 18,
+      "title": "The Coast of Forgotten Knots",
+      "words": 2665
+    },
+    {
+      "ch": 19,
+      "title": "The Story as Tenant",
+      "words": 2665
+    },
+    {
+      "ch": 20,
+      "title": "Dissolving the Brittle Paper",
+      "words": 2665
+    },
+    {
+      "ch": 21,
+      "title": "The Heart's Balance Sheet",
+      "words": 2665
+    },
+    {
+      "ch": 22,
+      "title": "Confronting the Polished Teak",
+      "words": 2665
+    },
+    {
+      "ch": 23,
+      "title": "Weaving the New Narrative",
+      "words": 2665
+    },
+    {
+      "ch": 24,
+      "title": "The Taste of Rain",
+      "words": 2665
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Maya discovers a 'ghost'—a marginal note, a pressed flower, a stain—in a seemingly mundane book from the shop, and the full sensory memory it unlocks for her.",
+      "Create an interlude from the perspective of Tha in his youth, detailing his first encounter with a 'breathing' text and how it changed his understanding of his family's role.",
+      "Draft a letter from Maya's mother, defending her position and fears, revealing her own complex relationship with history, preservation, and practicality.",
+      "Write a 'whisper'—a short, poetic fragment of argument or dialogue between two books from opposing shelves in The Last Page."
+    ],
+    "technical": [
+      "Design a conceptual 'Story Sensor' UI that visualizes the emotional, historical, and spiritual 'resonance' of different books in the archive as Maya interacts with them.",
+      "Prototype a nonlinear narrative tool that allows a reader to explore the chest's story by following thematic threads (e.g., 'water,' 'knots,' 'sandalwood') rather than a fixed chapter order."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Jorge Luis Borges",
+      "Maxine Hong Kingston",
+      "Salman Rushdie",
+      "Thich Nhat Hanh"
+    ]
+  },
+  "cover_prompt": "A young woman stands in a rain-lashed archive, her hands cradling a book whose pages flutter like restless wings, exhaling whispers of spectral ink and ancestral dust, [Detailed Scene & Context: inside a vast, colonial-era library during a supernatural storm, where books on teak shelves breathe faint mist and ghostly, text-like filaments of light weave through the humid air, connecting to faded family photographs and maps that float slightly off the shelves], [Artistic Style & Medium: in the atmospheric style of a Zdzisław Beksiński painting reimagined by Remedios Varo, blending metaphysical surrealism with intricate, symbolic detail, rendered in ethereal oil painting and delicate ink wash], [Composition & Camera: book cover framing, a centered, intimate composition with a slightly low angle looking up at the woman as the living story unfolds around her, dramatic and immersive], [Lighting & Color Palette: dramatic chiaroscuro lighting from a single storm-lit window cutting through the archival gloom, with a color palette of monsoon grays, deep indigo, weathered parchment yellows, and ethereal, ghostly blues], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}

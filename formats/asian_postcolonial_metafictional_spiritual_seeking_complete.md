@@ -3268,3 +3268,247 @@ The pressure against the other side of the door was a constant, and I, a constan
 Outside, the city breathed and dreamed its mundane dreams. Inside, the Archive held its breath. And between them, in the listening dark, I began my watch.
 
 The first night of forever.
+
+---
+
+# The Steward’s Grammar
+
+The first week was a study in silence and signal. The nodes, my mechanical chaperones, transmitted their data at dawn. A compressed burst of information—atmospheric pressure differentials across the Archive door, spectral analysis of the low hum, biometric readings from my own restless nights—shot into the ether, towards a recipient whose face I could not picture. The tablet glowed with a single, terse line of acknowledgement each time. *Transmission Received. Probationary Stewardship Maintained.*
+
+The shop, however, was not silent. Its noises became my lexicon. The groan of a floorboard was the building’s sigh. The skitter of a book sliding a quarter-inch on its shelf was a footnote being added. The soft *thuds* that came in the deepest watches of the night were the most profound—the sound of the archive within the Archive, reshelving itself. I never investigated the fallen volumes in the morning. They were always gone, returned to their places, though sometimes I would find a different book left out on the reading desk, its spine cracked open to a specific page. A treatise on mycology. A ship’s log from a doomed whaler. A children’s primer in a language I did not know. I took it as a test, or a conversation. I would read the page, carefully, then return the book to the desk. By the next morning, it too would be gone.
+
+My grandfather’s ledgers were now my scripture. I pored over them not for inventory, but for subtext. His notations were clinical: *“Binding stress noted on ‘Pilgrim’s Progress’ (1823). Humidity spike, 3 a.m. Recommend silica.”* But between the lines, I began to see the pattern of a lifelong negotiation. He wasn’t just maintaining a shop; he was maintaining a equilibrium. The purchase of a dehumidifier coincided with a period of “unusual quiet” from the back. The installation of a new lock on the front door followed an entry that read simply: *“Manifestation in the poetry section. Victorian. Benign. Redirected.”*
+
+Redirected how? The ledgers didn’t say. He had been the intermediary, the translator. My tools were blunter, more technological, but the principle was the same. I was a buffer.
+
+The feather remained on the counter. It was not a dream. It was an artifact. I placed it in a clear specimen bag from the first-aid kit and logged it in the current ledger. *“Item: Single black contour feather, approx. 8 inches. Origin: Unknown. Material: Organic. Context: Found on main counter following initial node installation. No avian matches in standard references. Filed under ‘Anomalies – Active.’”* I did not send this note to the tablet. Some knowledge was not for transmission.
+
+On the eighth day, the bell over the front door jangled.
+
+I started, my heart a trapped bird. No one had come in since the men with the nodes. The city had flowed around *The Last Page* like water around a stone. The customer was an elderly woman, draped in a shawl that seemed too heavy for the mild weather. She moved with a brittle caution, her eyes scanning the shelves not with a reader’s curiosity, but with a survivor’s recognition.
+
+“Can I help you?” I asked, my voice rusty from disuse.
+
+She turned to me. Her eyes were the colour of old tea. “You are the new keeper.”
+
+It wasn’t a question. “I am. Maya Sen.”
+
+“He spoke of you. The old keeper. He said you had the feel of the place in you, even as a child. That you heard its breath.” She approached the counter, her gaze missing nothing—the tablet, the nodes with their silent lights, the ledger open beside me. “It is different now. Tighter. Colder.”
+
+“Things change,” I said, a feeble defence.
+
+“Some things should not.” She placed a thin, paper-wrapped parcel on the counter. It was tied with butcher’s twine. “He held this for me. For safekeeping. I would like it back.”
+
+I didn’t touch it. “My grandfather held many things for many people. I don’t have a record of this.”
+
+“The record,” she said, tapping a finger gently on her own temple, “is not always in the book. It is in the agreement. He knew. I knew.” She looked past me, towards the back wall, towards the door. “The pressure is greater. You feel it, yes? It leans harder now. His way was… softer. A net. Your way is a barricade.”
+
+A flush of defensive heat rose in my chest. “His way almost failed. The world is not soft. It breaks through.”
+
+“And what breaks through a barricade?” she asked softly. “Not a whisper. Not a memory. Only a force.” She nudged the parcel. “This is a memory. It does not belong behind a barricade. It belongs to me.”
+
+I looked at the parcel. I thought of the ledger, of the system, of the probation. I thought of the feather, of the living breath held in the back. This was the aftermath rippling out—not a grand cataclysm, but this small, profound request. A ghost from the human world, come to collect its own.
+
+“What is it?” I asked.
+
+“My father’s breath,” she said, without a hint of metaphor. “He was a singer. In Penang. He died when the hospital fell in ’42. The last thing he did was sing to the children in the ward, to quiet them. My grandfather was there. He caught the breath in a hymn book. He gave it to me. I gave it to your grandfather when the… the *listening*… in my own house became too loud. He was a quieter keeper.”
+
+The absurdity, the sheer impossible truth of it, settled over me not as a shock, but as a confirmation. This was the shop’s true trade. Not in books, but in custody. A bank for the haunted.
+
+“If I give this to you,” I said slowly, “how do I account for it? The ledger. The… the new management. They expect inventory.”
+
+A sad, understanding smile touched her lips. “You are learning. The ledger is a story you tell *them*.” She nodded towards the tablet. “The truth is the story you keep for yourself. He had two ledgers, you know. The one you see. And one you did not.”
+
+The iron chest. I had only ever looked at the spectacles.
+
+I bent, unlocked the chest with the key around my neck, and lifted the spectacles case. Beneath it, tucked into the very bottom, was a second, smaller ledger. Bound in faded blue cloth. I lifted it out. My grandfather’s script filled it, but this was different—less methodical, more narrative.
+
+*“14th March. Mrs. Lim collected her father’s breath. The shop felt lighter afterwards. The man’s voice had been humming a minor key for weeks. A relief to let it go home.”*
+
+*“7th June. Accepted a fragment of a battle cry from Waterloo. Contained in a spent musket ball. Client fears it is stirring his son to violence. We shall let it shout into the silence here for a time.”*
+
+I looked up at Mrs. Lim. I found her entry, from over a decade ago. The details matched. I closed the blue ledger. It was the truth. The other was the fiction for outsiders.
+
+“I need to see your identification,” I said, the steward in me asserting protocol, even now.
+
+She produced an old ID card. The name matched. I noted the return in the blue ledger, then, after a moment’s hesitation, made a vague, corresponding entry in the official ledger: *“Client retrieval of personal effect. Item de-accessioned per prior agreement.”*
+
+I handed her the parcel. Her hands trembled as she took it, clutching it to her chest. She closed her eyes. A single tear traced the deep line from her eye to her jaw. For a moment, the air around her seemed to shimmer, to hold the faintest echo of a clear, tenor note.
+
+“Thank you,” she whispered. “The balance is delicate. Do not let them make it a siege. A held breath must be released, eventually. To its owner, or to the air. To keep it forever is a cruelty.”
+
+She left, the bell chiming softly behind her. The shop felt different. Not lighter, as my grandfather had noted, but *adjusted*. A small, rightful weight had been removed. The pressure from the Archive door seemed, for a few hours, to recede by a micron.
+
+I had performed my first act of true stewardship. Not containment, but curation. Not locking away, but facilitating return. The nodes had recorded the interaction, the conversation. They had nothing to say about it. Their silence was a form of permission, or perhaps incomprehension.
+
+That night, I opened the blue ledger fully. I read for hours. It was a history of my grandfather’s real work. A chronicle of griefs deposited, of joys too sharp to keep at home, of terrors that needed a dark, quiet place to fade. The Archive behind the door was the deep, wild ocean of held breath. But the shop itself was a tidal pool, a place where individual breaths could be isolated, examined, and sometimes, released.
+
+The next visitor came two days later. A young man, nervous, bearing a sealed porcelain jar. He spoke in halting sentences about his grandmother’s last words, which had “stained the air” in her bedroom. He couldn’t bear to sell the house, but he couldn’t live there. My grandfather had helped a friend of his. Did the service still…?
+
+I consulted the blue ledger. I found a pattern, a fee structure based not on money, but on reciprocity. A promise of future service, a relevant book donated to the shop’s shelves, a commitment to simple, mindful silence. I quoted the young man the terms. He agreed, offering a first edition of Tagore’s *Gitanjali*. I accepted. I logged the jar in the blue ledger: *“Last words of Elara Vance. Anguish and forgiveness. To be held in quietude until the stain fades.”* In the official ledger, I wrote: *“Acquired: 1 vol. Tagore poetry (1912). Condition: Good.”*
+
+The shop was open for business. Its true business.
+
+The nodes watched. They transmitted their data. The tablet glowed its acknowledgements. But I was building a second narrative, a secret text within the visible one. I was learning the grammar of my inheritance. The verbs were *to hold, to listen, to release*. The nouns were *breath, silence, story*.
+
+A month passed. The rhythm became my own. Days were for the mundane: dusting shelves that re-dusted themselves, tending to the few legitimate customers who wandered in seeking old maps or vintage novels, maintaining the fiction. Nights were for the real work: listening to the reshelving, reading the blue ledger, and sitting in the growing silence of the main room, feeling the push-and-pull between the door and the world.
+
+I began to experiment. I moved a node, just slightly, from its prescribed position. I noted if the pressure changed. I read passages from the blue ledger aloud in the shop, to see if the nightly reshelving responded. It did. One morning, after I read an entry about a soldier’s letter, I found a manual of military field tactics open on the desk.
+
+I was in dialogue with the place.
+
+One afternoon, the tablet did not simply acknowledge my transmission. It glowed with an incoming message. A single line, in the same sterile font.
+
+*“Anomalous atmospheric pattern detected, 02:17 local time. Correlate with steward log.”*
+
+They had noticed the feather’s aftermath, or Mrs. Lim’s visit, or the accumulation of small, unlogged energies. My probation was being tested. I went to the official ledger. I wrote a bland entry for that time: *“Nocturnal temperature fluctuation. Possible draft from street door. Adjusted thermostat.”*
+
+I sent the log. No reply came. It was a warning shot across my bows. They were watching the data, not the truth. I could work within that gap.
+
+The pressure from the Archive, however, was not static. With each act of curation—each deposit or release from the shop’s tidal pool—the great door seemed to pulse, as if tasting the change in the ecosystem. The low hum would sometimes coalesce into something almost linguistic, a phoneme of pure feeling that vibrated in my molars. It was not anger. It was curiosity. A vast, slow attention turning, grain by grain, towards my activities.
+
+I started dreaming not of forests, but of libraries infinite in size, where books were lungs, inhaling and exhaling in a slow, tidal rhythm. I would walk the aisles, and the breaths would stir the pages, creating a wind that carried every language, every cry, every sigh ever uttered. I was not afraid in these dreams. I was searching the stacks, looking for a single, specific volume. I never found it, but I knew its title: *The Exhalation*.
+
+I woke from these dreams with the taste of ozone and old paper on my tongue.
+
+Three months into my stewardship, the equilibrium shattered.
+
+It began with a book. Not left on the desk, but thrust from its shelf with such force it shot across the aisle and struck the opposite case with a crack like a gunshot. I rushed from the back room. It was a heavy, leather-bound atlas from the 1920s. It lay splayed on the floor, open to a map of the Indian Ocean. The paper was pristine, but the air above it *shimmered*, like heat haze off tarmac.
+
+I approached cautiously. The shimmer condensed, not into an image, but into a sensation—a blistering, dry heat, the smell of salt and engine oil, and a profound, gut-wrenching terror. It was a breath, but one that had been torn, ragged. A trauma without a story.
+
+The nodes in the vicinity began to blink rapidly, shifting from steady green to a pulsing amber. The tablet on the counter buzzed insistently. I ignored it. I knelt before the atlas, not touching it, letting the sensation wash over me. Beneath the terror was a specific longing. A longitude and latitude of desire. Not for home, but for a point in the deep ocean.
+
+The blue ledger. I scrambled for it, searching for an entry about the sea, a ship, a loss. I found it, from 1958.
+
+*“Accepted: Navigational chart fragment, from MV *Star of Kerala*. Lost in cyclone, ’57. Imprinted with final fix and captain’s despair. Client (son of radio officer) cannot bear the ‘screaming in the lines.’ To be folded and stilled.”*
+
+The atlas wasn’t the original artifact. The shop, in its reshelving, had somehow *absorbed* the imprinted breath from the chart fragment and amplified it through a related text. The containment was failing. The breath was too violent, too acute for its binding.
+
+The amber lights on the nodes turned red. A low, urgent alarm began to sound from the tablet, a digital bleat that was horribly out of place. The pressure from the Archive door swelled, a sympathetic surge, as if the great held breath saw a kindred rupture.
+
+I had to act. My grandfather’s methods were too soft for this. My new tools were for monitoring, not intervention. I was the intermediary. The translator.
+
+I went to the iron chest. I took out my grandfather’s spectacles and put them on. The world blurred. The violent shimmer over the atlas became a soft, grey cloud. The terrifying specificity faded into a vague distress. This was how he would have seen it. A problem to be soothed, not solved.
+
+But I was not my grandfather. I took the spectacles off. The sharp terror returned. I had to see it to face it.
+
+I did the only thing I could think of. I went to the poetry section. I ran my fingers over spines until I felt a subtle warmth. I pulled out a thin volume: *The Sea, The Sea*, an anthology. I opened it at random and began to read aloud, not the words on the page, but the first words that came to me, a desperate, improvised incantation.
+
+“Your coordinates are held. Your fix is known. The water that took you is recorded here, in the damp, in the salt on the air. You are not lost. You are *found*. In this archive. Your despair is a valid entry. But it must be filed. It must be still. Let the chart hold the place. Let the breath hold the pain. Separate them. Be still.”
+
+I repeated it, a mantra against the screaming silence. I poured my own will into the words, my own authority as steward. I was not commanding it to leave. I was instructing it on how to *be*. How to exist within the grammar of this place.
+
+Slowly, the shimmering air began to lose its heat. The smell of oil faded. The terror softened into a profound, endless sadness. The atlas on the floor ceased its vibration. The nodes flickered from red, back to amber, then to a watchful green. The alarm from the tablet silenced.
+
+I was drenched in sweat. My voice was hoarse. I carefully closed the atlas. As I did, I saw it—the map of the Indian Ocean now had a small, faint, perfectly circular water stain over a point several hundred miles west of Sumatra. A stain that had not been there before.
+
+I had not erased the breath. I had helped it inscribe itself. I had given it a proper form within the archive.
+
+I logged the event in the blue ledger, in full detail. In the official ledger, I wrote: *“Minor seismic event, 04:23. Shelf collapse risk assessed. No damage to inventory.”*
+
+The transmission from the tablet was severe. *“Multiple threshold breaches detected. Explain.”*
+
+I sent my official log entry. A long silence followed. Then: *“Probation extended. Review pending. Maintain operational parameters.”*
+
+I had survived. More than that, I had *stepped*. I had used the tools of the new regime—the nodes, the data—to create a space for the old magic. I had translated between the language of quarantine and the language of curation.
+
+That night, the reshelving was different. It was not a random, gentle sound. It was a deliberate, procession-like movement. Book after book after book was gently pulled and laid upon the floor, not in piles, but in a winding path that led from the deepest, darkest aisle all the way to the centre of the shop, before the main counter.
+
+In the morning, I found the path. A serpentine trail of open books, their pages whispering in the draft from the street door. It was an invitation. Or a demonstration. The shop was showing me its own nervous system, the connections between the breaths it held. I spent the day walking the path, reading a line from each open page. A story emerged, not linear, but thematic: a saga of crossings, of drownings, of voices carried on the wind and waves. The *Star of Kerala* was just one note in a symphony of oceanic loss the shop contained.
+
+The aftermath of my decision was not a single ripple, but a change in the tide. The ghosts were not restless. They were collaborative. And I was no longer just a warden. I was a conductor, learning to hear the music in the held breaths, and to let each one find its proper pitch within the terrible, beautiful silence.
+
+# Epilogue
+## The Listening Post
+
+Five years.
+
+The crack in the shop window is still there. I never repaired it. It is a record, a receipt for the night the story storm broke. The city has grown up around *The Last Page*. Glass and steel towers reflect the sun where once there were brick and memory. They call this neighbourhood “historic,” which is a real estate term for “not yet demolished.” The foot traffic is heavier now, tourists seeking the quaint, the analogue. They peer through the cracked window at the canyon of shelves, take photos, and usually move on, intimidated by the density of it all. A few venture in. They buy the occasional vintage paperback, a print of an old map. They see a slightly stern woman in her thirties, often writing in a large ledger, surrounded by odd, sleek little devices mounted on the shelves that blink with quiet lights. They feel the silence, which is not the silence of emptiness, but of deep, still water, and they rarely linger.
+
+They do not see the blue ledger. They do not feel the pressure of the door at the back, which is now sheathed in a secondary, transparent membrane of a polymer developed by the Institute. It hums at a frequency that makes teeth ache if you stand too close. They do not see the feather, now sealed in a nitrogen-filled display case on the wall behind the counter, labelled simply: *“*Corvus spp.?, Anomalous.*”* A public mystery to disguise a private one.
+
+My probation was lifted after two years. The Institute’s reviews became biannual, then annual. Dr. Aris, my handler, still visits. He is older, his hair grey at the temples. He brings upgraded nodes, new sensor packages. We have tea. He examines my official ledgers, which have become masterpieces of plausible fiction. He downloads data from the nodes. He is pleased with the stability. The “anomalous atmospheric events” have, according to my logs, decreased in frequency and severity. He believes his technology is working.
+
+He is not wrong. It is working—according to my specifications. The nodes regulate the pressure, yes. But they also, through a series of subtle adjustments I have learned to make to their resonant frequencies, provide a kind of scaffolding. They help me *shape* the silence, to create different chambers within the shop’s atmosphere for different kinds of breaths. A low hum for anguish. A soft vibration for joy. A steady, solid pulse for memory. The technology does not suppress the archive; it helps me catalogue it.
+
+I have become a librarian of the ineffable.
+
+Mrs. Lim passed away last year. Her grandson brought me a small, lacquered box. “She said you would know what to do with the silence now,” he said. Inside was the sandalwood box, empty. The breath had been released, spent in the comfort of her final days. I logged its return to the world in the blue ledger. The shop felt no different. A good release.
+
+Other clients come. Word passes in certain circles, among people who inherit more than property. A man brings me his mother’s wedding veil, which she wore in a pogrom and which “still smells of smoke and running.” A young woman brings a dictaphone tape with her brother’s last, laughing message, which now plays static and whispers in her nursery. I accept them. I negotiate the reciprocity. A family recipe, sealed in an envelope. A pledge to plant a tree. A book of course, always a book. The shop’s visible collection grows, its mundane flesh thickening to hide its spectral bones.
+
+My grandfather’s spectacles rest in their case. I wear them sometimes, on days when the pressure is a physical headache, when the chorus of held breaths is too loud. They soften the world. They remind me of the grace of gentle myopia. But my own sight is now the primary tool. I see the filaments of connection. I see how the breath from a Victorian child’s fever dream threads through a 1950s romance novel and emerges in the condensation on the window. I see the archive as a living, breathing tapestry.
+
+The Archive behind the door remains. The great, held breath. Our relationship has evolved. It is not a prisoner and a jailer. It is a deep, underground reservoir, and I am the keeper of the wellhead. I regulate the flow. Sometimes, I allow a wisp of it to seep into the shop—a concept, a colour of emotion, a forgotten scent—to be absorbed and integrated by the smaller breaths on the shelves. It is how the archive grows, digests, metabolizes. In return, the disciplined silence of my curated collection exerts a calming, ordering influence on the chaotic whole. We are symbiotic.
+
+I received a postcard from Kai, two years ago. A picture of the Singapore skyline. On the back, in his neat script: *“Burned the letters. Planted a frangipani tree. The rain smells different now. Quieter. Thank you.”* I pinned it to the wall by the cot. A reminder that stories can end, not with a bang, but with a slow, green growth.
+
+I do not dream of the forest anymore. I dream of the shop. In my dreams, I walk the aisles and the books open as I pass, not to pages, but to rooms, to landscapes, to moments suspended in amber. I visit the captain on his bridge as the cyclone hits. I sit with the child in her fever. I hear the wedding song sung before the smoke. I do not interfere. I witness. This is the pilgrimage now: a nightly journey into the heart of the archive I tend.
+
+The Institute believes they have successfully integrated an anomalous site into a monitored, controlled framework. They have files, data streams, a compliant steward. They have, in their terms, “contained the hauntology.”
+
+They are not wrong. But their containment is a vessel. And I have filled that vessel with a purpose they cannot measure. The spiritual seeking did not end. It became ambient. It is in the taste of the tea I drink, in the texture of the dust I no longer fight, in the rhythm of the transmissions I send and the truths I withhold.
+
+I am Maya Sen. Steward.
+
+The pressure against the door is a constant. I am a constant against it. The friction generates no heat.
+
+It generates a hum. And in that hum, I have learned to hear the music of everything that was ever loved, feared, or lost. I listen. I catalogue. I sometimes release.
+
+The world outside breathes and dreams its mundane, beautiful dreams. Inside, the Archive breathes its held, eternal breath.
+
+And in the space between, in the listening silence, I keep my watch.
+
+It is no longer the first night of forever.
+
+It is simply tonight. And it is enough.
+
+---
+
+# Epilogue
+## The Keeper’s Ledger
+
+The rain came to London on a Thursday, a soft, persistent whisper against the window of the shop. It smelled of wet pavement and diesel, not the monsoon, but the memory of one was a taste at the back of my throat. A taste of sandalwood.
+
+I closed the blue ledger. The entry was simple: *Item 1,147: One tin whistle, nickel, circa 1942. Received from J. O’Connell, Belfast. Breath held: a marching tune, unfinished. Reciprocity: a cutting from the rosemary bush, to be planted in a window box facing east.* The ink dried into the fibre of the page, another thread in the weave.
+
+My grandfather’s chair by the empty fireplace was empty. I had not moved it. Its presence was a different kind of anchor now, not a place for a person, but for the concept of watchfulness. The shop accepted it. The shelves, bowed under the weight of their dual collections—the visible and the invisible—seemed to lean towards it in a permanent, attentive curve. The smell was the same: glue, paper, sweet decay. But I could parse the notes now. The decay was of lavender, from a sachet sewn into a 1923 diary. The glue was from a broken-spined atlas that had charted a sailor’s loneliness. The paper was breathing, softly, in its sleep.
+
+A young man entered, the bell fluttering a pale sound. He carried a canvas satchel, worn soft at the edges. His eyes did not go to the shelves of books, but to me, directly, as if he had been given a map.
+
+“Maya Sen?” he asked. His voice held the rolling hills of somewhere else.
+
+I nodded. I did not ask how he had found the shop. They always found it, when they needed to. He approached the counter, not with the haste of a customer, but with the solemnity of a supplicant.
+
+“My great-aunt,” he said, placing the satchel on the counter between us. “She lived in Nairobi. She left me this.” From the bag, he withdrew a bundle of cloth, unwrapping it to reveal a simple clay bowl, ochre-red, striated with fine, hairline cracks. “She ate from this, every day, for seventy years. Porridge, mostly. When she died, I washed it. The water… the water in the bowl afterwards tasted of maize and dust and a language I don’t speak.”
+
+He fell silent. I waited. The shop waited.
+
+“It’s too loud,” he said finally, his hand hovering over the bowl. “The taste is too loud in my kitchen. I hear her humming.”
+
+I understood. It was not the object, but the breath saturating it—the daily, mundane ritual that had become a soul’s fingerprint. A haunting of the most gentle, persistent kind.
+
+“What can you offer?” I asked, my voice the one I used for these negotiations, low and even, a tool for measuring weight.
+
+He had come prepared. From his pocket, he drew a single, dried seed pod. “From the acacia tree outside her window. She told me once it was a stubborn tree. That it knew how to wait for rain.”
+
+I took the pod. It was a good reciprocity. Life, and patience. I opened the blue ledger, made the entry. He watched as I placed the bowl on a cleared space on a shelf behind me, between a pressed camellia from Shanghai and a single, worn leather glove. The shelf hummed, a low thrum of acceptance, and the air around the bowl seemed to settle, the invisible resonance drawing into the tapestry of the room.
+
+He exhaled, a sound of profound relief. The silence in the bowl was no longer a burden he carried; it was a note in the archive’s chorus. He left without another word, the bell sighing behind him.
+
+I returned to my chair. The pressure against the Archive door was a familiar tide against a seawall. I sipped my tea. The Institute’s weekly report lay unopened on the desk, a sheaf of paper quantifying the unquantifiable. They monitored the hum. They graphed its frequency. They believed their graphs were the story.
+
+The true ledger was in the air. It was in the way the dust motes danced in a shaft of afternoon light, each a carrier of some infinitesimal, story-laden breath. It was in the quiet of the clay bowl, now a vessel for peaceful silence instead of loud memory. My pilgrimage was not to a holy city, but to these moments of transfer, of balance. I was not a priestess. I was a librarian of the ineffable, a steward of echoes.
+
+Later, I would walk the aisles. The books would open their rooms to me. I would witness the taste of maize porridge in a sunlit Nairobi kitchen. I would hear the unfinished marching tune from a Belfast street. I would not stay. I would catalogue the experience, a curator of lived moments, and return to my chair by the desk.
+
+The world outside dreamed its mundane, beautiful dreams. A bus sighed to a halt at the corner. A child laughed. The rain eased.
+
+Inside, the Archive breathed. The great, held breath turned, slowly, in its sleep.
+
+And in the space between, in the listening silence, I kept my watch.
+
+It was simply tonight.
+
+And it was enough.
